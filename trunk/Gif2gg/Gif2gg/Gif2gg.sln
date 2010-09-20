@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Gif2gg", "Gif2gg.vbproj", "{68BBBE99-E393-49DC-A90B-7165D20B7CF8}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{68BBBE99-E393-49DC-A90B-7165D20B7CF8}.Debug.ActiveCfg = Debug|.NET
+		{68BBBE99-E393-49DC-A90B-7165D20B7CF8}.Debug.Build.0 = Debug|.NET
+		{68BBBE99-E393-49DC-A90B-7165D20B7CF8}.Release.ActiveCfg = Release|.NET
+		{68BBBE99-E393-49DC-A90B-7165D20B7CF8}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
